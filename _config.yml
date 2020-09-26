@@ -17,11 +17,11 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Java Core(Servlets, WebSocket, JSP..)
- - JavaEE/JakartaEE
- - Microprofile
- - Slick
- - Product management
+ - Java Core(Servlets,WebSocket,JSP..)
+ - JavaEE/JakartaEE(JSF,EJB,JTA..)
+ - Microprofile IO
+ - Gestión de dependencias(Maven,Gradle,NPM)
+ - Product : management
  - API design
  - Groovy
  - Spring MVC/Boot/Social
