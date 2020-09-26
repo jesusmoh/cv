@@ -111,8 +111,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+   profileurl: https://stackoverflow.com/users/6779540/jes%c3%bas-manuel-ort%c3%adz-hidalgo
+   flairimageurl: https://stackoverflow.com/users/flair/6779540.png
 intro: |
   Graduated from Software Engineering, with more than 5 years of experience in software development. Full cycle developer in technologies related to JavaEE and Android. Focused on good architecture, quality, security and user experience
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
