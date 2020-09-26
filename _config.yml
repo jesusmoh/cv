@@ -18,7 +18,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java Core
- - JakartaEE
+ - Jakarta EE
  - Payara/Wildfly/Tomcat
  - Hibernate
  - UML/MDA/Patrones
@@ -31,7 +31,12 @@ skills:
  - Docker/Traefik/Cloud
  - SoapUI/Postman
  - Mokito/Junit
- - Pentaho/ETL
+ - Pentaho/ETL/Cube
+ - Virtualization
+ - Active Directory
+ - Domain Controller
+ - ArrayDisk/CloudBackUp
+
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
