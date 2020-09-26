@@ -69,10 +69,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Software Engineering
+   date: 2014
+   subject: Software Engineering at Technological University of Havana (<a href="https://www.cujae.edu.cu/" taget="_blank">CUJAE</a>)
+   school: CUJAE 
 
 #This section is optional (as is the image link below)
 coursera:
