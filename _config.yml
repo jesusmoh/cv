@@ -9,11 +9,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/jesusmoh
  - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
+   url: https://stackoverflow.com/users/6779540/jes%c3%bas-manuel-ort%c3%adz-hidalgo
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/jesusmho/
 
 #Any buzzword skills you want to include
 skills:
