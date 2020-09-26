@@ -17,9 +17,9 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
+ - Java Core(Servlets, WebSocket, JSP..)
+ - JavaEE/JakartaEE
+ - Microprofile
  - Slick
  - Product management
  - API design
