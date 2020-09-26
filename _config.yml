@@ -19,13 +19,15 @@ primarylinks:
 skills:
  - Java Core
  - JakartaEE
+ - Payara/Wildfly
  - Hibernate
  - UML/MDA/Patrones
  - Microprofile IO
  - Maven/Gradle/NPM
  - REST/SOAP/GRAPHQL
- - Android
- - NoSQL/SQL
+ - Angular/jQuery/Html5
+ - Android/FireBase
+ - MongoDB/Postgres/SQLserver
  - Docker/Cloud
  - SoapUI/Postman
  - Mokito/Junit
