@@ -46,14 +46,9 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
+  - title: JavaEE and Android developer.
    start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
+   end: 2020
    employer: Emerald Street Ventures
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
  - title: Principal Engineer
