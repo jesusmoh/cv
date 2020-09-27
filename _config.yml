@@ -47,8 +47,13 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 #Work experience is required
 roles:
  - title: JavaEE and Android developer.
-   start: 2017
+   start: 2018
    end: 2020
+   employer: Emerald Street Ventures
+   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+ - title: Android developer.
+   start: 2017
+   end: 2018
    employer: Emerald Street Ventures
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
  - title: Principal Engineer
