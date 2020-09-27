@@ -60,12 +60,12 @@ roles:
    start: 2016
    end: 2017
    employer: Automotors services SA
-   description: Development and infrastructure group leader.
+   description: Development and infrastructure group leader. Reference: Dir.: Ing. Noel Otón: noglopez@presidencia.sasa.co.cu
  - title: JavaEE Backend Developer
    start: 2014
    end: 2016
    employer: Automotors services SA
-   description: Working on a range of functional and technical roles, primarily working on client sites in Cuba.
+   description: Working on a range of functional and technical roles.
    
 #Education is required
 education:
