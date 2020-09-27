@@ -46,7 +46,7 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
+ - title: JavaEE and Android developer
    start: 2017
    end: Ongoing
    employer: Basement Crowd
