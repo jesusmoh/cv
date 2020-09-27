@@ -107,8 +107,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/6779540/jes%c3%bas-manuel-ort%c3%adz-hidalgo
-   flairimageurl: https://avatars2.githubusercontent.com/u/31394170?s=400&u=8d01ed2e3ed25bfad294cb33a9b48126cb7d6a65&v=4
+   profileurl: https://avatars2.githubusercontent.com/u/31394170
+   flairimageurl: https://avatars2.githubusercontent.com/u/31394170
 intro: |
   Graduated from Software Engineering, with more than 5 years of experience in software development. Full cycle developer in technologies related to JavaEE and Android. Focused on good architecture, quality, security and user experience
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
