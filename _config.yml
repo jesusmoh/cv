@@ -101,9 +101,9 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - jesusmoh/waveflow.github.io
- - jesusmoh/redcloud.github.io
- - jesusmoh/membership.github.io
+ - jesusmoh/waveflow
+ - jesusmoh/redcloud
+ - jesusmoh/membership
 
 #Stackoverflow flair is optional
 stackoverflow:
