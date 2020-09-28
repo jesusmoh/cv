@@ -114,7 +114,7 @@ intro: |
   Graduated from Software Engineering, with more than 5 years of experience in software development. Full cycle developer in technologies related to Java. Focused on good architecture, quality, security and user experience
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>MBA</strong>:I mainly use SQL databases like postgres and SQL server. I have also used noSQL databases as mongoDB using HibernateOGM as ORM.<br/><br/>
+   <strong>MBA</strong>: I mainly use SQL databases like postgres and SQL server. I have also used noSQL databases as mongoDB using HibernateOGM as ORM.<br/><br/>
    <strong>BackEnd</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
    <strong>Mobile</strong>: Android developer with 3 years of experience. The development has been oriented to the management of the catalogs of products of supermarkets and logistics distributors. <a target='_blank' href="https://www.sisnet.com.uy/movil.html">App sMobile</a><br/><br/>
    <strong>Cloud platforms</strong>: I have primarily used Google Cloud. I have experience setting up, configuring and running Java applications in dockers containers.<br/><br/>
