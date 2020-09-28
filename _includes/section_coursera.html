@@ -8,8 +8,8 @@
 				{% for course in site.coursera.courses %}
 				<div class="row">
 					{% if course.optionalimage %}
-						<div class="col-sm-5">
-							<img src="{{course.optionalimage}}">
+						<div class="col-sm-5" style="text-align: center;">
+							<img src="{{course.optionalimage}}" style="max-width: 100px;max-height: 100px">
 						</div>
 					{% endif %}
 					<div class="col-sm-6">
