@@ -78,9 +78,9 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+    - title: Angular Getting Started
+      link: https://app.pluralsight.com/paths/skills/angular
+      optionalimage: https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png
       date: September 16, 2013
     - title: Algorithms Design and Analysis, Part 1
       link: https://www.coursera.org/specializations/algorithms
