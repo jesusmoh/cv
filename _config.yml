@@ -35,7 +35,6 @@ skills:
  - SoapUI/Postman
  - Mokito/Junit
  - Pentaho/ETL/Cube
- - Hyper-v
  - Active Directory
  - Domain Controller
  - Fisical Server
@@ -54,18 +53,18 @@ roles:
  - title: Android developer
    start: 2017
    end: 2018
-   employer: SISNET LTDA
+   employer: SISNET LTDA. 
    description: Android
  - title: Principal Engineer
    start: 2016
    end: 2017
    employer: Automotors services SA
-   description: Development and infrastructure group leader. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
+   description: Team leader. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
  - title: JavaEE Backend Developer
    start: 2014
    end: 2016
    employer: Automotors services SA
-   description: Working on a range of functional and technical roles.
+   description: JavaEE,SQL Developer. Working on a range of functional and technical roles. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
    
 #Education is required
 education:
