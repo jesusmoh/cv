@@ -26,18 +26,15 @@ skills:
  - Maven/Gradle/NPM
  - Rest/Soap/GraphQL
  - Angular/jQuery/Html5
- - Android/FireBase
- - MongoDB
- - Postgres
- - SQLserver
- - Docker/Traefik
- - Cloud
+ - Android/F.Base/SQLite
+ - MongoDB/MariaDB
+ - Postgres/SQL Server
+ - Docker-compose/Traefik
  - SoapUI/Postman
  - Mokito/Junit
  - Pentaho/ETL/Cube
+ - Cloud/Fisical Server
  - Active Directory
- - Domain Controller
- - Fisical Server
 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
