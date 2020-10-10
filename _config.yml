@@ -78,10 +78,10 @@ coursera:
       link: https://app.pluralsight.com/paths/skills/angular
       optionalimage: https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png
       date: April 10, 2020
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: GeneXus Analystic 
+      link: https://www.genexus.com/es/
+      optionalimage: https://www.genexus.com/media/images/genexus_logo_svg.svg
+      date: October 10, 2020
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
