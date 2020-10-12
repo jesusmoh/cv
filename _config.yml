@@ -18,17 +18,17 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java EE
- - Payara/Tomcat
+ - Payara/Tomcat server
  - UML/Patrons
  - Microprofile IO
  - Maven/Gradle/NPM
- - Rest/Soap/GraphQL
  - Angular
  - JQuery/Html5
- - Android
- - MongoDB/MariaDB
+ - Android/SQLite
+ - MongoDB
  - Postgres/SQL Server
- - Docker
+ - Docker/Traefik
+ - Rest/Soap/GraphQL
  - SoapUI/Postman
  - Cloud/Fisical Server
 
