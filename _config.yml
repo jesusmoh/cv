@@ -26,11 +26,14 @@ skills:
  - JQuery/Html5
  - Android/SQLite
  - MongoDB
+ - ETL processes
  - Postgres/SQL Server
  - Docker/Traefik
- - Rest/Soap/GraphQL
+ - Rest/GraphQL
+ - Soap
  - SoapUI/Postman
- - Cloud/Fisical Server
+ - Cloud
+ - Fisical Server
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?alt=json
