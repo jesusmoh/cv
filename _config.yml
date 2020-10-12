@@ -17,25 +17,20 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Java SE
- - Jakarta EE
- - Payara/Wildfly/Tomcat
- - Hibernate
+ - Java EE
+ - Payara/Tomcat
  - UML/Patrons
  - Microprofile IO
  - Maven/Gradle/NPM
  - Rest/Soap/GraphQL
- - Angular/jQuery/Html5
- - Android/F.Base/SQLite
+ - Angular
+ - JQuery/Html5
+ - Android
  - MongoDB/MariaDB
  - Postgres/SQL Server
- - Docker-compose/Traefik
+ - Docker
  - SoapUI/Postman
- - Mokito/Junit
- - Pentaho/ETL/Cube
  - Cloud/Fisical Server
- - Active Directory
-
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?alt=json
