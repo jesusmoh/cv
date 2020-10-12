@@ -17,7 +17,7 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Java Core
+ - Java SE
  - Jakarta EE
  - Payara/Wildfly/Tomcat
  - Hibernate
