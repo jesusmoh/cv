@@ -55,7 +55,7 @@ roles:
  - title: Java EE Developer and Principal Engineer
    start: 2016
    end: 2017
-   employer: Automotors services SA
+   employer: Automotors services SA <br/> Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
    description: Team leader. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
  - title: Java EE Backend Developer
    start: 2014
@@ -102,5 +102,5 @@ additionalinfo: |
    <strong>BackEnd</strong>: I am experienced in a variety of Java APIs, frameworks and libs. I have worked with javaEE, JPA, Hibernate, JSF, WebSocket, in addition to others. <br/><br/>
    <strong>Cloud platforms</strong>: I have primarily used Google Cloud. I have experience setting up, configuring and running <a target='_blank' href="https://www.shopizer.com/">Java applications</a> in dockers containers.<br/><br/>
    <strong>Mobile</strong>: Android developer with 3 years of experience. The development has been oriented to the management of the catalogs of products of supermarkets and logistics distributors. <a target='_blank' href="https://www.sisnet.com.uy/movil.html">App-sMobile</a><br/><br/>
-   <strong>Infrastructure</strong>: I worked on the windows enterprise platforms. I know about the administration of corporate protocols (DNS,NTP,SAMBA), services (Active Directory) and fisical servers <br/><br/> 
+   <strong>Infrastructure</strong>: I worked on the windows enterprise platforms. I know about the administration of corporate protocols (DNS,NTP,SAMBA), services (Active Directory) and fisical servers <br/>
   
