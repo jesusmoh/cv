@@ -45,22 +45,22 @@ roles:
  - title: Java EE and Android developer
    start: 2018
    end: Ongoing
-   employer: SISNET SA.     know more
+   employer: SISNET SA +know more
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Android developer
    start: 2017
    end: 2018
-   employer: SISNET LTDA.     know more
+   employer: SISNET LTDA +know more
    description: Android developer. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
  - title: Java EE Developer and Principal Engineer
    start: 2016
    end: 2017
-   employer: Automotors services SA.     know more
+   employer: Automotors services SA +know more
    description: Principal Engineer
  - title: Java EE Backend Developer
    start: 2014
    end: 2016
-   employer: Automotors services SA.     know more
+   employer: Automotors services SA +know more
    description: JavaEE and SQL developer. Working on a range of functional and technical roles. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
    
 #Education is required
