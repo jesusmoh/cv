@@ -46,17 +46,17 @@ roles:
    start: 2018
    end: Ongoing
    employer: SISNET SA know more
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   description: Development of solutions on JavaEE. APIs, middlewares and legacy migrations.
  - title: Android developer
    start: 2017
    end: 2018
    employer: SISNET LTDA know more
-   description: Android developer. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
+   description: Development and maintenance of the <a target='_blank' href="https://www.sisnet.com.uy/movil.html">sMobile</a> project. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
  - title: Java EE Developer and Principal Engineer
    start: 2016
    end: 2017
    employer: Automotors services SA know more
-   description: Principal Engineer
+   description: Java EE Developer, infrastructure manager and team leader.
  - title: Java EE Backend Developer
    start: 2014
    end: 2016
@@ -67,7 +67,7 @@ roles:
 education:
  - level: Software Engineering
    date: 2014
-   subject: Technological University of Havana
+   subject: Technological University of Havana. <a href="https://www.cujae.edu.cu/" taget="_blank">CUJAE</a>
    school: CUJAE 
 
 #This section is optional (as is the image link below)
