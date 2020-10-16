@@ -65,9 +65,9 @@ roles:
    
 #Education is required
 education:
- - level: Software Engineering <a href="https://www.cujae.edu.cu/" taget="_blank"> CUJAE </a>
+ - level: Software Engineering
    date: 2014
-   subject: Technological University of Havana. 
+   subject: Technological University of Havana. CUJAE 
    school: CUJAE 
 
 #This section is optional (as is the image link below)
