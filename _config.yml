@@ -31,8 +31,8 @@ skills:
  - Postgres
  - SQL Server
  - Docker/Traefik
- - Rest/GraphQL
- - Cloud
+ - Rest/GraphQL/Soap
+ - Cloud/VPS
  - Fisical Server
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
