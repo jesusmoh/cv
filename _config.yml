@@ -18,22 +18,20 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java EE
- - Payara
- - Tomcat
+ - PHP/WordPress
  - UML/Patrons
  - Microprofile IO
  - Maven/Gradle/NPM
+ - Git
  - Angular
  - JQuery/Html5
  - Android/SQLite
  - MongoDB
- - Git
- - ETL processes
+ - Pentaho ETL
  - Postgres
  - SQL Server
  - Docker/Traefik
  - Rest/GraphQL
- - Soap
  - Cloud
  - Fisical Server
 
