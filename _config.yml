@@ -18,7 +18,6 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java EE
- - PHP/WordPress
  - UML/Patrons
  - Microprofile IO
  - Maven/Gradle/NPM
@@ -26,6 +25,7 @@ skills:
  - Angular
  - JQuery/Html5
  - Android/SQLite
+ - PHP/WordPress
  - MongoDB
  - Pentaho ETL
  - Postgres
