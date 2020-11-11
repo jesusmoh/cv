@@ -23,13 +23,11 @@ skills:
  - Maven/Gradle/NPM
  - Git
  - Angular
- - JQuery/Html5
  - Android/SQLite
  - PHP/WordPress
  - MongoDB
  - Pentaho ETL
- - Postgres
- - SQL Server
+ - SQLServer/Postgres
  - Docker/Traefik
  - Rest/GraphQL/Soap
  - Cloud/VPS
