@@ -38,12 +38,12 @@ blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?al
 
 #Work experience is required
 roles:
- - title: Java EE and Android developer
+ - title: Java EE and Web developer
    start: 2018
    end: Ongoing
    employer: SISNET SA know more
    description: Development of solutions on JavaEE. APIs, middlewares and legacy migrations.
- - title: Android developer
+ - title: Java EE and Android developer
    start: 2017
    end: 2018
    employer: SISNET LTDA know more
@@ -53,7 +53,7 @@ roles:
    end: 2017
    employer: Automotors services SA know more
    description: Java EE Developer, infrastructure manager and team leader. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
- - title: Java EE Backend Developer
+ - title: Java Developer
    start: 2014
    end: 2016
    employer: Automotors services SA know more
@@ -97,4 +97,5 @@ additionalinfo: |
    <strong>Cloud platforms</strong>: I have primarily used Google Cloud on linux. I have experience setting up, configuring and running <a target='_blank' href="https://www.shopizer.com/">Java applications</a> in dockers containers.<br/><br/>
    <strong>Mobile</strong>: Android developer with 3 years of experience. The development has been oriented to the management of the big catalogs of products of supermarkets and logistics distributors. <a target='_blank' href="https://www.sisnet.com.uy/movil.html">App-sMobile</a><br/><br/>
    <strong>Infrastructure</strong>: I worked on the windows enterprise platforms. I know about the administration of corporate protocols (DNS,NTP,SAMBA), services (Active Directory) and <a target='_blank' href="https://www8.hp.com/es/es/campaigns/renove-servidores/proliant.html">fisical servers</a> <br/><br/>
+   <strong>CMS & Web</strong>: I have worked with <a target='_blank' href="http://centrorepuesto.com.uy/">wordpress</a> and implemented integrations with ERP systems <br/><br/>
   
