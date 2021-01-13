@@ -39,11 +39,16 @@ blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?al
 #Work experience is required
 roles:
  - title: Java EE and Web developer
-   start: 2018
-   end: Ongoing
+   start: 2019
+   end: 2020
    employer: SISNET SA know more
    description: Development of solutions on JavaEE. APIs, middlewares and legacy migrations.
- - title: Java EE and Android developer
+ - title: Java EE and Web developer
+   start: 2018
+   end: 2019
+   employer: SISNET SA know more
+   description: Development of solutions on JavaEE. APIs, middlewares and legacy migrations.
+ - title: Android developer
    start: 2017
    end: 2018
    employer: SISNET LTDA know more
