@@ -38,11 +38,11 @@ blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?al
 
 #Work experience is required
 roles:
- - title: Java EE and Web developer
+ - title: Jakarta EE and PHP Web developer
    start: 2019
    end: 2020
    employer: SISNET SA know more
-   description: Development of solutions on JavaEE. APIs, middlewares and legacy migrations.
+   description: Development of solutions on JavaEE and web soluctions over PHP- <a target='_blank' href="https://www.sisnet.com.uy/web.html">WordPress</a>.
  - title: Java EE and Android developer
    start: 2018
    end: 2019
@@ -57,12 +57,12 @@ roles:
    start: 2016
    end: 2017
    employer: Automotors services SA know more
-   description: Java EE Developer, infrastructure manager and team leader. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
- - title: Java Developer
+   description: Java EE Developer and team leader at <a target='_blank' href="https://www.sasa.com.cu/">SASA</a> . Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
+ - title: Java SE Developer
    start: 2014
    end: 2016
    employer: Automotors services SA know more
-   description: JavaEE and SQL developer. Working on a range of functional and technical roles. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
+   description: Java SE and SQL developer at <a target='_blank' href="https://www.sasa.com.cu/">SASA</a> . Working on a range of functional and technical roles. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
    
 #Education is required
 education:
