@@ -98,7 +98,7 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>MBA</strong>: I have worked with SQL databases, like postgres,SQL server and noSQL databases as mongoDB. I also know about the design and maintenance of databases and the ETL process <a target='_blank' href=" https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-platform/pentaho-data-integration.html">Pentaho</a> <br/><br/>
-   <strong>BackEnd</strong>: I am experienced in a variety of Java APIs, frameworks and libs. I have worked with javaEE, JPA, Hibernate, JSF, WebSocket and others components. <br/><br/>
+   <strong>BackEnd</strong>: I am experienced in a variety of Java APIs, frameworks and libs. I have worked with java SE, javaEE, Hibernate, JSF, WebSocket, SpringBoot, Microprofile and others. <br/><br/>
    <strong>Cloud platforms</strong>: I have primarily used Google Cloud on linux. I have experience setting up, configuring and running <a target='_blank' href="https://www.shopizer.com/">Java applications</a> in dockers containers.<br/><br/>
    <strong>Mobile</strong>: Android developer with 3 years of experience. The development has been oriented to the management of the big catalogs of products of supermarkets and logistics distributors. <a target='_blank' href="https://www.sisnet.com.uy/movil.html">App-sMobile</a><br/><br/>
    <strong>Infrastructure</strong>: I worked on the windows enterprise platforms. I know about the administration of corporate protocols (DNS,NTP,SAMBA), services (Active Directory) and <a target='_blank' href="https://www8.hp.com/es/es/campaigns/renove-servidores/proliant.html">fisical servers</a> <br/><br/>
