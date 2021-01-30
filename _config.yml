@@ -42,12 +42,12 @@ roles:
    start: 2019
    end: 2020
    employer: SISNET SA know more
-   description: Development of solutions on JavaEE and web soluctions over PHP- <a target='_blank' href="https://www.sisnet.com.uy/web.html">WordPress</a>.
+   description: Development of solutions on Jakarta EE and web soluctions over PHP- <a target='_blank' href="https://www.sisnet.com.uy/web.html">WordPress</a>.
  - title: Java EE and Android developer
    start: 2018
    end: 2019
    employer: SISNET SA know more
-   description: Development of solutions on JavaEE. APIs, middlewares and legacy migrations.
+   description: Development of solutions on JavaEE 7. Development and maintenance of the middlewares and legacy migrations. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
  - title: Android developer
    start: 2017
    end: 2018
