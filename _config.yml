@@ -29,9 +29,8 @@ skills:
  - Pentaho ETL
  - SQLServer/Postgres
  - Docker/Traefik
- - Rest/GraphQL/Soap
+ - Rest/Soap
  - Cloud/VPS
- - Fisical Server
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?alt=json
