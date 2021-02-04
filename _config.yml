@@ -17,18 +17,20 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Java EE
+ - Java Enterprise
  - UML/Patrons
  - Microservice
- - Maven/Gradle/NPM
+ - Maven/Gradle
+ - npm
  - Git
- - Angular
+ - JavaScript/Angular
  - Android/SQLite
  - PHP/WordPress
- - MongoDB
+ - NoSQL/MongoDB
  - Pentaho ETL
- - SQLServer/Postgres
- - Docker/Traefik
+ - SqlServer/Postgres
+ - Docker/Docker-Compose
+ - Ngnix/Traefik
  - Rest/Soap
  - Cloud/VPS
 
