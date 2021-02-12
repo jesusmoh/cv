@@ -89,7 +89,6 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - jesusmoh/javaArchitectureShowCase
- - jesusmoh/efacturaApp
 
 #Stackoverflow flair is optional
 stackoverflow:
