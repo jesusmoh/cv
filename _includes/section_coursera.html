@@ -7,11 +7,6 @@
 			<div id="courseraPanel">
 				{% for course in site.coursera.courses %}
 				<div class="row">
-					{% if course.optionalimage %}
-						<div class="col-sm-5" style="text-align: center;">
-							
-						</div>
-					{% endif %}
 					<div class="col-sm-6">
 						<a target='_blank' href="{{course.link}}">
 							{{course.title}}
