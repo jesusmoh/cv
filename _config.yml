@@ -77,14 +77,13 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Angular Getting Started for creating dynamic and interactive applications in HTML
-      link: https://app.pluralsight.com/paths/skills/angular
-      optionalimage: https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png
-      date: April 10, 2020
     - title: GeneXus Analystic for Enterprise Low-Code at 2020
       link: https://www.genexus.com/es/
-      optionalimage: https://www.genexus.com/media/images/genexus_logo_svg.svg
       date: October 10, 2020
+    - title: Angular Getting Started for creating dynamic and interactive applications in HTML
+      link: https://app.pluralsight.com/paths/skills/angular
+      date: April 10, 2020
+   
 
 #List of interesting Github repo/projects to include - optional
 github:
