@@ -74,21 +74,6 @@ education:
    subject: Technological University of Havana. CUJAE.
    school: CUJAE 
 
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: GeneXus Analystic for Enterprise Low-Code at 2020
-      link: https://www.genexus.com/es/
-      date: October 10, 2020
-    - title: Angular Getting Started for creating dynamic and interactive applications in HTML
-      link: https://app.pluralsight.com/paths/skills/angular
-      date: April 10, 2020
-    - title: Spring Framework Fundamentals
-      link: https://app.pluralsight.com/library/courses/spring-framework-spring-mvc-fundamentals/
-      date: January 20, 2021
-   
-
 #List of interesting Github repo/projects to include - optional
 github:
  - jesusmoh/javaArchitectureShowCase
