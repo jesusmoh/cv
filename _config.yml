@@ -54,17 +54,17 @@ roles:
    start: 2017
    end: 2018
    employer: SISNET LTDA know more
-   description: Development and maintenance of the <a target='_blank' href="https://www.sisnet.com.uy/movil.html">sMobile</a> and backend project. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
- - title: Java EE Developer and Principal Engineer
+   description: Development and maintenance of the <a target='_blank' href="https://www.sisnet.com.uy/movil.html">sMobile</a> and javaEE backend project over payara server. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
+ - title: Java EE Developer and Team leader
    start: 2016
    end: 2017
    employer: Automotors services SA know more
    description: Java EE Developer and team leader at <a target='_blank' href="https://www.sasa.com.cu/">SASA</a> . Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
- - title: Java SE Developer
+ - title: Java SE and SQL Developer
    start: 2014
    end: 2016
    employer: Automotors services SA know more
-   description: Java SE and SQL developer at <a target='_blank' href="https://www.sasa.com.cu/">SASA</a> . Working on a range of functional and technical roles. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
+   description: Java SE and SQL developer over SQL Server 2012 at <a target='_blank' href="https://www.sasa.com.cu/">SASA</a> . Working on a range of functional and technical roles. Reference Dir.Ing Noel Otón. noglopez@presidencia.sasa.co.cu
    
 #Education is required
 education:
