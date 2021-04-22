@@ -18,22 +18,22 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java Enterprise
- - UML/Patrons
+ - UML
+ - Patrons
  - Microservice
- - Maven/Gradle/Npm
+ - Maven/Gradle/npm
  - Git
  - JavaScript/Angular
  - Android/SQLite
  - PHP/WordPress
- - NoSQL/MongoDB
+ - NoSQL/SQL
  - GeneXus
  - Pentaho ETL
- - SqlServer/Postgres
- - Ubuntu
+ - Ubuntu/SSH/Cloud
  - Docker/Docker-Compose
  - Ngnix/Traefik
  - Rest/Soap
- - Cloud/VPS
+ 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?alt=json
