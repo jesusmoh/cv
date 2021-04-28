@@ -40,17 +40,17 @@ blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?al
 
 #Work experience is required
 roles:
- - title: Jakarta EE and PHP Web developer
+ - title: Jakarta EE and PHP developer
    start: 2019
    end: 2020
    employer: SISNET SA know more
    description: Development of solutions on Jakarta EE and PHP/wordpress - <a target='_blank' href="https://detodaspartes.com.uy/"> Example</a>.
- - title: Java EE and Android developer
+ - title: Java EE and Java Android developer
    start: 2018
    end: 2019
    employer: SISNET SA know more
    description: Development of solutions on JavaEE 7. Development and maintenance of the middlewares and legacy migrations. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
- - title: Android developer
+ - title: Java Android developer
    start: 2017
    end: 2018
    employer: SISNET LTDA know more
