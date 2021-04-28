@@ -40,11 +40,11 @@ blogfeed: https://www.linkedin.com/in/jesusmho/detail/recent-activity/shares/?al
 
 #Work experience is required
 roles:
- - title: Jakarta EE and Web developer
+ - title: Jakarta EE and PHP Web developer
    start: 2019
    end: 2020
    employer: SISNET SA know more
-   description: Development of solutions on Jakarta EE and web soluctions over PHP- <a target='_blank' href="https://www.sisnet.com.uy/web.html">WordPress</a>.
+   description: Development of solutions on Jakarta EE and PHP/wordpress - <a target='_blank' href="https://detodaspartes.com.uy/"> Example</a>.
  - title: Java EE and Android developer
    start: 2018
    end: 2019
