@@ -44,17 +44,17 @@ roles:
    start: 2019
    end: 2020
    employer: SISNET SA know more
-   description: Development of solutions on Jakarta EE over Payara Server and PHP/wordpress/wooCommerce - <a target='_blank' href="https://detodaspartes.com.uy/"> Example</a>.
+   description: Development of solutions on Jakarta EE over Payara Server and <a target='_blank' href="https://detodaspartes.com.uy/"> PHP/wordpress/wooCommerce</a>.
  - title: Java EE and Java Android developer
    start: 2018
    end: 2019
    employer: SISNET SA know more
-   description: Development of solutions on JavaEE 7. Development and maintenance of the middlewares and legacy migrations. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
+   description: Development of solutions for JavaEE 6 and 7. Development and maintenance of the middlewares, legacy project and migrations. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
  - title: Java Android developer
    start: 2017
    end: 2018
    employer: SISNET LTDA know more
-   description: Development and maintenance of the <a target='_blank' href="https://www.sisnet.com.uy/movil.html">sMobile</a> and javaEE backend project over payara server using SOAP web service. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
+   description: Development and maintenance of the <a target='_blank' href="https://www.sisnet.com.uy/movil.html">sMobile</a> project and its javaEE backend over glassfish server using SOAP web service. Reference. Developer Leader Ines Lazbal. ilazbal@sis-net.com.uy
  - title: Java EE Developer and Team leader
    start: 2016
    end: 2017
